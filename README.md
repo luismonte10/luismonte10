@@ -1,7 +1,7 @@
 <h3 align="left"> Olá! Me chamo Luís! 👋 </h3><h2></h2>
 
 <p>
-  Estudo Desenvolvimento Web Full Stack na Trybe. Recentemente terminei o módulo de Front-End onde aprendemos diversas tecnólogias, como React, Redux, React Hooks e Context API.
+  Estudo Desenvolvimento Web Full Stack na Trybe. Recentemente terminei o módulo de Front-End onde aprendemos diversas tecnologias, como React, Redux, React Hooks e Context API.
   
   Com o módulo de Back-End em andamento, onde estou aprendendo Docker, SQL, Node.js, TypeScript e MongoDB.
 </p>
